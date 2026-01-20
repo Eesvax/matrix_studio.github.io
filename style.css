@@ -14,12 +14,11 @@ h2 {
 }
 .btn {
   background-color: #ff3b3b;
-  color: white;
+  color: green;
   padding: 12px 25px;
   border: none;
   border-radius: 8px;
   font-size: 16px;
-  color: green;
   cursor: pointer;
   transition: 0.3s;
 }
