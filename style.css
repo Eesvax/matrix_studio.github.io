@@ -12,3 +12,17 @@ h1 {
 h2 {
     color: #00ff00;
 }
+.btn {
+  background-color: #ff3b3b;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #d62828;
+}
